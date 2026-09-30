@@ -106,7 +106,12 @@ same expected order value as successful ones.
 
 ## Screenshots
 
-_(add after running `streamlit run app.py`)_
+<img width="1878" height="753" alt="image" src="https://github.com/user-attachments/assets/5d2d09f0-f2cd-42c0-bddc-a3bc1b2302d9" />
+<img width="1528" height="651" alt="image" src="https://github.com/user-attachments/assets/f90eeffd-2e02-4e89-bde4-2d3a64cb29de" />
+<img width="1494" height="551" alt="image" src="https://github.com/user-attachments/assets/72055670-369b-466f-a4f3-1cdecf8ffec0" />
+
+
+
 
 ## Setup
 
