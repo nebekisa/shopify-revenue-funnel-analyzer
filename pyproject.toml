@@ -1,0 +1,10 @@
+[project]
+name = "shopify-revenue-funnel-analyzer"
+version = "0.1.0"
+description = "Revenue and funnel leakage analytics for Shopify/DTC e-commerce"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-v --tb=short"

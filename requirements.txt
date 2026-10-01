@@ -1,0 +1,7 @@
+pandas>=2.2.3
+numpy==1.26.4
+duckdb==1.0.0
+streamlit==1.36.0
+plotly==5.22.0
+pytest==8.2.2
+Faker==25.8.0
